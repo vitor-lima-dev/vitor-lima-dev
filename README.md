@@ -6,6 +6,14 @@
 
 ###
 
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitor-lima-dev/vitor-lima-dev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitor-lima-dev/vitor-lima-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vitor-lima-dev/vitor-lima-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
 <h1 data-importer="text" align="center">Hey! I'm Vitor Lima 👋What's Up?</h1>
 
 ###
@@ -36,14 +44,6 @@
   <img src="./profile/streak.svg" height="150" alt="GitHub Streak" />
   <img src="https://raw.githubusercontent.com/vitor-lima-dev/vitor-lima-dev/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitor-lima-dev/vitor-lima-dev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitor-lima-dev/vitor-lima-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vitor-lima-dev/vitor-lima-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
 
 ###
 
