@@ -1,7 +1,7 @@
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontAlign=0&fontAlignY=0&section=footer"  />
+  <img width="100%" style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontAlign=0&fontAlignY=0&section=footer"  />
 </div>
 
 ###
