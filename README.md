@@ -53,14 +53,12 @@
 
 ###
 
+<img data-importer="snake" src="https://raw.githubusercontent.com/vitor-lima-dev/vitor-lima-dev/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
 <div data-importer="border">
   <img width="100%" style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient"  />
 </div>
-
-###
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/vitor-lima-dev/vitor-lima-dev/snake-output/snake.svg" alt="Snake animation" />
 
 ###
