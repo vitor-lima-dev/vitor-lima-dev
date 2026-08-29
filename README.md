@@ -32,7 +32,7 @@
   <a href="#" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="#" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GitLab" /></a>&nbsp;&nbsp;
   <a href="#" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube" /></a>&nbsp;&nbsp;
-  <a href="#" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" alt="Telegram" /></a>
+  <a href="https://t.me/vitor_lima_dev" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" alt="Telegram" /></a>
 </div>
 
 ###
