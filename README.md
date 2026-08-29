@@ -28,52 +28,67 @@
 ###
 
 <div data-importer="socials" align="center">
+
   <a
     href="#"
     target="_blank"
-    style="text-decoration: none !important; border: 0 !important; border-bottom: 0 !important; outline: 0 !important; box-shadow: none !important; background: none !important; display: inline-block; color: inherit !important;"
-  ><img
+    style="text-decoration: none !important; border: 0 !important; border-bottom: 0 !important; outline: 0 !important; box-shadow: none !important; display: inline-block; margin-right: 4px;"
+  >
+    <img
       src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"
       height="25"
       alt="Instagram"
-      style="border: 0 !important; border-bottom: 0 !important; box-shadow: none !important;"
-  /></a><a
+    />
+  </a>
+
+  <a
     href="#"
     target="_blank"
-    style="text-decoration: none !important; border: 0 !important; border-bottom: 0 !important; outline: 0 !important; box-shadow: none !important; background: none !important; display: inline-block; color: inherit !important;"
-  ><img
+    style="text-decoration: none !important; border: 0 !important; border-bottom: 0 !important; outline: 0 !important; box-shadow: none !important; display: inline-block; margin-right: 4px;"
+  >
+    <img
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
       height="25"
       alt="LinkedIn"
-      style="border: 0 !important; border-bottom: 0 !important; box-shadow: none !important;"
-  /></a><a
+    />
+  </a>
+
+  <a
     href="#"
     target="_blank"
-    style="text-decoration: none !important; border: 0 !important; border-bottom: 0 !important; outline: 0 !important; box-shadow: none !important; background: none !important; display: inline-block; color: inherit !important;"
-  ><img
+    style="text-decoration: none !important; border: 0 !important; border-bottom: 0 !important; outline: 0 !important; box-shadow: none !important; display: inline-block; margin-right: 4px;"
+  >
+    <img
       src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge"
       height="25"
       alt="GitLab"
-      style="border: 0 !important; border-bottom: 0 !important; box-shadow: none !important;"
-  /></a><a
+    />
+  </a>
+
+  <a
     href="#"
     target="_blank"
-    style="text-decoration: none !important; border: 0 !important; border-bottom: 0 !important; outline: 0 !important; box-shadow: none !important; background: none !important; display: inline-block; color: inherit !important;"
-  ><img
+    style="text-decoration: none !important; border: 0 !important; border-bottom: 0 !important; outline: 0 !important; box-shadow: none !important; display: inline-block; margin-right: 4px;"
+  >
+    <img
       src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge"
       height="25"
       alt="YouTube"
-      style="border: 0 !important; border-bottom: 0 !important; box-shadow: none !important;"
-  /></a><a
+    />
+  </a>
+
+  <a
     href="#"
     target="_blank"
-    style="text-decoration: none !important; border: 0 !important; border-bottom: 0 !important; outline: 0 !important; box-shadow: none !important; background: none !important; display: inline-block; color: inherit !important;"
-  ><img
+    style="text-decoration: none !important; border: 0 !important; border-bottom: 0 !important; outline: 0 !important; box-shadow: none !important; display: inline-block;"
+  >
+    <img
       src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
       height="25"
       alt="Telegram"
-      style="border: 0 !important; border-bottom: 0 !important; box-shadow: none !important;"
-  /></a>
+    />
+  </a>
+
 </div>
 
 ###
