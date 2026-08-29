@@ -27,25 +27,50 @@
 
 ###
 
-<div data-importer="socials" align="center" style="text-decoration: none;">
+<div data-importer="socials" align="center">
   <a href="#" target="_blank" style="text-decoration: none; border: none; outline: none; display: inline-block;">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+    <img
+      src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"
+      height="25"
+      alt="instagram logo"
+      border="0"
+    />
   </a>
 
   <a href="#" target="_blank" style="text-decoration: none; border: none; outline: none; display: inline-block;">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
+      height="25"
+      alt="linkedin logo"
+      border="0"
+    />
   </a>
 
   <a href="#" target="_blank" style="text-decoration: none; border: none; outline: none; display: inline-block;">
-    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gitlab logo" />
+    <img
+      src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge"
+      height="25"
+      alt="gitlab logo"
+      border="0"
+    />
   </a>
 
   <a href="#" target="_blank" style="text-decoration: none; border: none; outline: none; display: inline-block;">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+    <img
+      src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge"
+      height="25"
+      alt="youtube logo"
+      border="0"
+    />
   </a>
-  
+
   <a href="#" target="_blank" style="text-decoration: none; border: none; outline: none; display: inline-block;">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" alt="telegram logo" />
+    <img
+      src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
+      height="25"
+      alt="telegram logo"
+      border="0"
+    />
   </a>
 </div>
 
