@@ -18,7 +18,7 @@
 
 ###
 
-<div style="display: flex; gap: 2px; align: center;">
+<div data-importer="techs" align="center">
   <img src="https://iconic-api.onrender.com/dark/html" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/css" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/js" width="64px" />
