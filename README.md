@@ -62,9 +62,27 @@
 
 ###
 
+###
+
+<h2 data-importer="trophy-title" align="center">🏆 GitHub Achievements</h2>
+
+<p align="center">
+  A few milestones and achievements from my GitHub journey.
+</p>
+
 <div data-importer="trophy" align="center">
-  <img src="https://github-profile-trophy-unserori.vercel.app/?username=vitor-lima-dev&theme=dark_lover&row=200&column=4&margin-w=10&margin-h=10" height="180" alt="trophy graph"  />
+  <img
+    src="https://github-profile-trophy-unserori.vercel.app/?username=vitor-lima-dev&theme=dark_lover&row=200&column=4&margin-w=10&margin-h=10"
+    width="800"
+    alt="GitHub Trophies"
+  />
 </div>
+
+###
+
+<!-- <div data-importer="trophy" align="center">
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=vitor-lima-dev&theme=dark_lover&row=200&column=4&margin-w=10&margin-h=10" height="180" alt="trophy graph"  />
+</div> -->
 
 ###
 
