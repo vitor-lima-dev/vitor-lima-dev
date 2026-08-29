@@ -56,13 +56,15 @@
   <img src="./profile/streak.svg" height="150" alt="GitHub Streak" />
 </div>
 
-<p data-importer="trophy" align="center">
-  <img src="https://github-profile-trophy-unserori.vercel.app/?username=vitor-lima-dev&theme=dark_lover&row=200&column=4&margin-w=10&margin-h=10" height="180" alt="trophy graph"  />
-</p>
-
 ###
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/vitor-lima-dev/vitor-lima-dev/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<div data-importer="trophy" align="center">
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=vitor-lima-dev&theme=dark_lover&row=200&column=4&margin-w=10&margin-h=10" height="180" alt="trophy graph"  />
+</div>
 
 ###
 
