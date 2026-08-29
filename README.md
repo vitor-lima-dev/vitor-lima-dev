@@ -51,16 +51,10 @@
 
 ###
 
-<!-- <div data-importer="gif" align="center">
-  <img width="250" height="250" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
-</div> -->
-
-###
-
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/vitor-lima-dev/vitor-lima-dev/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="./profile/streak.svg" height="150" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy-unserori.vercel.app/?username=vitor-lima-dev&theme=dark_lover&row=200&column=4&margin-w=10&margin-h=10" height="200" alt="trophy graph"  />
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=vitor-lima-dev&theme=dark_lover&row=200&column=4&margin-w=10&margin-h=10" height="100" alt="trophy graph"  />
 </div>
 
 ###
